@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "nombre": "licuadora ",
+        "cantidad": 6,
+        "precio": 60.0
+    },
+    {
+        "id": 103,
+        "nombre": "licuadora",
+        "cantidad": 7,
+        "precio": 55.0
+    },
+    {
+        "id": 106,
+        "nombre": "impresora HP",
+        "cantidad": 5,
+        "precio": 390.0
+    }
+]
